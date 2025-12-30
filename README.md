@@ -1,2 +1,11 @@
-# IMC
- App criado no cirso de iOS 11 Swift 4
+# IMC App
+
+Calculadora de Índice de Massa Corporal (IMC) em Swift.
+
+## 🛠 Tecnologias usadas
+• Swift  
+• Xcode
+
+## 🔍 Funcionalidades
+• Inserir peso e altura  
+• Calcula IMC e mostra resultado
